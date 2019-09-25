@@ -1,10 +1,8 @@
 ---
 layout: post
 title: "Git Basic Command"
+search : true
 ---
-
-# Git Basic Command
-
 ## Git Basic Logic
 1. Git Bash 실행
 2. 로컬 저장소로 사용할 디렉터리로 이동한다.
